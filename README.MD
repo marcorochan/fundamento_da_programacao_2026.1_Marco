@@ -17,11 +17,6 @@ not -> Ele altera o valor booleano da condição.
 * -> multiplicação
 / -> divisão
 
-## Operadores lógicos
-and -> e -> se duas condições forem verdadeiras, o resultado é verdadeiro.
-or -> Se pelo menos uma condição for verdadeira, o resultado é verdadeiro.
-not -> Ele altera o valor booleano da condição.
-
 ## Métodos em python
 1. print() -> exibe informações e dados no terminal.
 2. input() -> Capturar uma informação no terminal.
