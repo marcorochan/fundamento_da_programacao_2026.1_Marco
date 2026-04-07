@@ -28,6 +28,11 @@ not -> Ele altera o valor booleano da condição.
 ``elif (senão se)`` -> É usado para testar várias condições. Ele só executada se todas as condições anteriores forem falsas.
 ``else (senão)`` -> Executa o código se a condição if for false (falsa).
 
+## Conversão de tipos em python
+1. int() -> A gente vai incluir qual variável/dado que queremos converter para número inteiro.
+2. float() -> A gente vai incluir qual variável/dado que queremos converter para número decimal.
+3. str() -> A gente vai incluir qual variável/dado que queremos converter para texto.
+
 ## Boas Práticas
 1. Qualquer variável em python utiliza o padrão snake_case ou recentemente cammelCase.
 2. Se você observar alguma estrutura tipo nome(), 90% de chance de ser uma função.
